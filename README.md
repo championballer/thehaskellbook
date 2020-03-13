@@ -13,6 +13,7 @@ This repository contains notes and resources gathered while working on the haske
 |8| Recursion|[Here](./Chapter-08-Recursion/Chapter-08-Recursion-Notes.pdf)|
 |9| Lists | [Here](./Chapter-09-Lists/Chapter-09-Lists-Notes.pdf)| 
 |10| Folding Lists | [Here](./Chapter-10-Folding-Lists/Chapter-10-Folding-Lists-Notes.pdf)|
+|11| Algebraic Datatypes | [Here](./Chapter-11-Algebraic-Datatypes/Chapter-11-Algebraic-Datatypes-Notes.pdf)
 ### Links
 
 * https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html
