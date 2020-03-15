@@ -72,6 +72,9 @@ testPostOrder =
     then putStrLn "Postorder okay"
     else putStrLn "Bad news bears, postorder failed"
 
+foldTree :: (a->b->b)->b->(BinaryTree a)->b
+foldTree f z a = foldr f z $ inOrder a
+
 main :: IO()
 main = do
     testPreOrder
