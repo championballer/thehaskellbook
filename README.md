@@ -17,3 +17,4 @@ This repository contains notes and resources gathered while working on the haske
 ### Links
 
 * https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html
+* https://stackoverflow.com/questions/23030638/how-fmap-fmap-typechecks
