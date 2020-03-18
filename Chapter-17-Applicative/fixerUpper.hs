@@ -1,0 +1,1 @@
+f = (,,,) <$> Just 90 <*> Just 10 <*> Just "Tiredness" <*> (pure [1,2,3] :: Maybe [Int])
