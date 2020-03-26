@@ -16,6 +16,7 @@ This repository contains notes and resources gathered while working on the haske
 |11| Algebraic Datatypes | [Here](./Chapter-11-Algebraic-Datatypes/Chapter-11-Algebraic-Datatypes-Notes.pdf)|
 |12| Signaling Adversity | [Here](./Chapter-12-Signaling-Adversity/Chapter-12-Signaling-Adversity.pdf)|
 |13| Building Projects | [Here](./Chapter-13-Building-Projects/Chapter-13-Building-Projects.pdf)| 
+|14| Testing | [Here](./Chapter-14-Testing/Chapter-14-Testing-Notes.pdf) |
 ### Links
 
 * https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html
