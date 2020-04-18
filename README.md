@@ -17,6 +17,11 @@ This repository contains notes and resources gathered while working on the haske
 |12| Signaling Adversity | [Here](./Chapter-12-Signaling-Adversity/Chapter-12-Signaling-Adversity.pdf)|
 |13| Building Projects | [Here](./Chapter-13-Building-Projects/Chapter-13-Building-Projects.pdf)| 
 |14| Testing | [Here](./Chapter-14-Testing/Chapter-14-Testing-Notes.pdf) |
+|15| Monoid | [Here](./Chapter-15-Monoid/Chapter-15-Monoids-Notes.pdf) |
+|16| Functors | [Here](./Chapter-16-Functors/Chapter-16-Functors-Notes.pdf)|
+|17| Applicative | [Here](./Chapter-17-Applicative/Chapter-17-Applicative-Notes.pdf)|
+|18| Monad | [Here](./Chapter-18-Monad/Chapter-18-Monad-Notes.pdf)|
+
 ### Links
 
 * https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html
